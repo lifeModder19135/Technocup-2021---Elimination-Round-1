@@ -28,14 +28,23 @@ files:
     -100 1
     1 1 1 -1
   learner_created: false
-- name: src/Room.java
-  visible: true
-  learner_created: true
-- name: src/Door.java
-  visible: true
-  learner_created: true
 - name: git
+  visible: true
+  learner_created: true
+- name: src/com/ntolb/model/Door.java
+  visible: true
+  learner_created: true
+- name: src/com/ntolb/model/Room.java
+  visible: true
+  learner_created: true
+- name: src/com/ntolb/model/Seal.java
+  visible: true
+  learner_created: true
+- name: src/com/ntolb/exceptions/InputReadException.java
   visible: true
   learner_created: true
 feedback_link: https://codeforces.com/contest/1413/problem/A?locale=en
 status: Unchecked
+feedback:
+  message: Execution failed
+  time: Tue, 10 Nov 2020 20:55:20 UTC
